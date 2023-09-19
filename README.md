@@ -1,2 +1,2 @@
-# Capstone_Project
+# Game Engine
 Our capstone project: Making a 2d engine for a 2d game. 
